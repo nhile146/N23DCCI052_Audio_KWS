@@ -2,7 +2,7 @@
 
 ## 1. Thông tin sinh viên
 - **Họ và tên:** Lê Ngọc Yến Nhi
-- **MSSV:**N23DCCI052
+- **MSSV:** N23DCCI052
 - **Lớp:** D23CQCI01-N
 - **Đề tài:** Nhận dạng từ khóa giọng nói ứng dụng cho hệ thống báo thức thông minh sử dụng Edge Impulse.
 
